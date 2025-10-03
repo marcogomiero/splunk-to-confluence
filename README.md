@@ -121,3 +121,7 @@ You can:
 **🙌 Why it matters**\
 Because nobody should waste time taking screenshots of Splunk dashboards.\
 With this TA, your Confluence pages are **always live, always fresh, always automated**.
+
+**CREDITS**\
+Marco Gomiero (programming)
+Riccardo Natale (quality assurance and testing)
